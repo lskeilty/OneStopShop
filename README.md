@@ -11,7 +11,7 @@ This beautifully simple IOS app allows you to put all of your home shopping need
 
 ## Stretch Goals:
 
-1. Intigrate higher quality price comparison
+1. Integrate higher quality price comparison
 2. Integrate open maps capabilities
 3. Integrate searchable items option with brand choice and quanitity
 
